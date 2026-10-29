@@ -58,15 +58,6 @@ Cada repositório é um arcano do portfólio. A ordem segue o caminho do dinheir
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="36" alt="GitHub Actions" title="GitHub Actions" />
 </p>
 
----
-
-### 🜃 O que os commits dizem
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielgmln-ops&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=false&bg_color=14262a&title_color=c2a267&text_color=efe3c8&icon_color=c2a267&border_color=6e5628&ring_color=c2a267" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgmln-ops&layout=compact&langs_count=7&locale=pt-br&custom_title=Linguagens&bg_color=14262a&title_color=c2a267&text_color=efe3c8&border_color=6e5628" alt="Linguagens mais usadas" />
-</p>
-
 <div align="center">
 <sub>Todos os projetos usam apenas dados sintéticos.</sub>
 </div>
