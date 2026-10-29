@@ -38,7 +38,6 @@ Cada repositório é um arcano do portfólio. A ordem segue o caminho do dinheir
 | **XVI** · A Torre | [Esteira DevSecOps](https://github.com/gabrielgmln-ops/esteira-devsecops-bancaria) | SAST, segredos e imagens com gate de merge, e SIEM em ELK | Python · ELK |
 | **0** · O Louco | [Portfólio](https://github.com/gabrielgmln-ops/Portfolio-) | O próprio baralho: Astro, TypeScript estrito, Lighthouse na CI | Astro · TypeScript |
 
-<sub>Fora da tiragem, mas em uso todo dia: <a href="https://github.com/gabrielgmln-ops/jarvis">JARVIS</a>, assistente de voz para Windows com LLM local.</sub>
 
 ---
 
